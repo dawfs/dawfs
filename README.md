@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=3000&background=FCFFDA00&center=true&vCenter=true&width=435&lines=One+should+keep+learning+until+old+age)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=3000&background=FCFFDA00&center=true&vCenter=true&width=435&lines=One+should+keep+learning+until+old+age)](https://git.io/typing-svg)
 <!--
 **dawfs/dawfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
