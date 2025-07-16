@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=3000&background=FCFFDA00&center=true&vCenter=true&width=435&lines=One+should+keep+learning+until+old+age)](https://git.io/typing-svg)
 <!--
 **dawfs/dawfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
