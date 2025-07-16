@@ -1,5 +1,10 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=3000&background=FCFFDA00&center=true&vCenter=true&width=435&lines=One+should+keep+learning+until+old+age)](https://git.io/typing-svg)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fbadges%2Fshields%2Fraw%2Fmaster%2Fpackage.json&query=%24.name&style=for-the-badge&logoColor=rgb&label=%E5%B5%8C%E5%85%A5%E5%BC%8F&labelColor=rgb&color=rgb)
+
+
+
+
 <!--
 **dawfs/dawfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
